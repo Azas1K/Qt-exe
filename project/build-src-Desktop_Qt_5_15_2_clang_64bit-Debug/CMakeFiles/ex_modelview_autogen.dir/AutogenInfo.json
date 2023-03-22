@@ -1,0 +1,195 @@
+{
+	"BUILD_DIR" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/ex_modelview_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/gleb/Desktop/C++/project/src",
+	"CMAKE_EXECUTABLE" : "/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/gleb/Desktop/C++/project/src/CMakeLists.txt",
+		"/Users/gleb/Qt/Qt Creator.app/Contents/Resources/package-manager/auto-setup.cmake",
+		"/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/3.21.1/CMakeSystem.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeGenericSystem.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Darwin.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/UnixPaths.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeCXXInformation.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/AppleClang-CXX.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/Clang.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/GNU.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeParseArguments.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/gleb/Desktop/C++/project/src",
+	"DEP_FILE" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/ex_modelview_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "ex_modelview_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/about.h",
+			"MU",
+			"NQGFK7YTB5/moc_about.cpp",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/addrowdialog.h",
+			"MU",
+			"NQGFK7YTB5/moc_addrowdialog.cpp",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/customproxymodel.h",
+			"MU",
+			"NQGFK7YTB5/moc_customproxymodel.cpp",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/examplemodel.h",
+			"MU",
+			"NQGFK7YTB5/moc_examplemodel.cpp",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/mainwindow.h",
+			"MU",
+			"NQGFK7YTB5/moc_mainwindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/ex_modelview_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/ex_modelview_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug",
+		"/Users/gleb/Desktop/C++/project/src",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/QtWidgets.framework",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/QtWidgets.framework/Headers",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/QtGui.framework",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/QtGui.framework/Headers",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/QtCore.framework",
+		"/Users/gleb/Qt/5.15.2/clang_64/lib/QtCore.framework/Headers",
+		"/Users/gleb/Qt/5.15.2/clang_64/mkspecs/macx-clang",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Users/gleb/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/ex_modelview_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/ex_modelview_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/gleb/Qt/5.15.2/clang_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/gleb/Qt/5.15.2/clang_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/gleb/Desktop/C++/project/build-src-Desktop_Qt_5_15_2_clang_64bit-Debug/CMakeFiles/ex_modelview_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/about.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/addrowdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/customproxymodel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/examplemodel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/gleb/Desktop/C++/project/src/ex_modelview/mainwindow.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
